@@ -14,4 +14,4 @@ for item in my_list:
     prime_numbers.append(item)
 for item in prime_numbers:
   print(item)
-
+print("Martwa Papuga")
